@@ -1,0 +1,30 @@
+.app {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    
+    /* background-image: image("https://images.pexels.com/photos/6347719/pexels-photo-6347719.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"); */
+    background-image: url("https://images.pexels.com/photos/1410224/pexels-photo-1410224.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  form {
+    background: rgb(254, 254, 255);
+    padding: 30px 35px;
+    border: 2px solid white;
+    border-radius: 50px;
+    box-shadow: 50px rgb(58, 3, 8);
+    
+    
+  }
+  button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 70px;
+    margin-left: 85px;
+    margin-top: 10px;
+  }
